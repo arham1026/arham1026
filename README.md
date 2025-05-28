@@ -1,4 +1,4 @@
-<h1><marquee scrollamount="9">👋 Hi, I'm Arham — Embedded Firmware Engineer 🚀</marquee></h1>
+<h1><marquee scrollamount="13">👋 Hi, I'm Arham — Embedded Firmware Engineer 🚀</marquee></h1>
 
 # 💫 About Me:
 Embedded Firmware Engineer
