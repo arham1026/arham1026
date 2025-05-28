@@ -1,4 +1,4 @@
-<h1><marquee scrollamount="13">👋 Hi, I'm Arham — Embedded Firmware Engineer 🚀</marquee></h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=23&pause=1000&color=2EE4F7&width=435&lines=+Firmware+Engineer%7CARM+Cortex%7CSTM32)](https://git.io/typing-svg)
 
 # 💫 About Me:
 Embedded Firmware Engineer
